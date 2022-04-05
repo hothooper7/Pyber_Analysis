@@ -4,8 +4,8 @@
 
 Using Python, Pandas, and Matplotlib I have created the following:
     
-    1. DataFrame of the ride-sharing data by city type
-    2. Multiple-line graph showing the total weekly fares for each city type
+  1. DataFrame of the ride-sharing data by city type
+  2. Multiple-line graph showing the total weekly fares for each city type
     
 I will use my analysis to summarize how the data differs by city type and make recommendations addressing disparities among the city types.
 
